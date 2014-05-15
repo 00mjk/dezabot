@@ -2,7 +2,7 @@ DEZABOT
 =======
 
 Inspired by [@alfredodeza](https://twitter.com/alfredodeza), DEZABOT is an IRC
-bot that prints GIF URLS that match predefined phrases in every message.
+bot that prints GIF URLs that match predefined phrases in every message.
 Currently the list of GIFs is hardcoded, but future versions will be able to
 query a database or API.
 
